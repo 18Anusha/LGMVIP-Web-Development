@@ -1,0 +1,21 @@
+.navbar{
+
+	text-align: center;
+	padding-left: 30px;
+	font-size: 18px;
+	color: grey;
+	font-family: sans-serif;
+
+}
+
+
+#main_title{
+
+	padding: 20px;
+	padding-bottom: 50px;
+	text-align: center;
+	font-size: 30px;
+	font-family: cursive;
+	font-weight: bold;
+}
+
